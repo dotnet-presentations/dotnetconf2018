@@ -9,7 +9,25 @@ If you are intested in running a local event or watch party between Sept 12 and 
 You are free to organize a watch party to view the online broadcast live and/or organize a presentation, workshop, or hack-a-thon anytime until Oct 31. The technical content needs to be .NET related and preferably on the latest releases. Topcs can include but aren't limited to: .NET Core, ASP.NET Core, Xamarin, Unity, UWP, Visual Studio family, C#/F#/Visual Basic, .NET cloud development with Azure, Machine Learning & AI with .NET, .NET open source projects.  
 
 # Technical Content
-We will have technical content coming soon! For now, check out the presentations here: [https://github.com/dotnet-presentations/home](https://github.com/dotnet-presentations/home)
+We will have technical content from the .NET Conf 2018 sessions soon after they are presented! For now, check out the presentations and workshops here: [https://github.com/dotnet-presentations/home](https://github.com/dotnet-presentations/home)
+
+## Decks
+
+### [What is .NET?](https://github.com/dotnet-presentations/home/tree/master/.NET%20Intro)
+
+### [ASP.NET Core - Security and Identity](https://github.com/dotnet-presentations/home/tree/master/Security/ASP.NET%20Core%202.0)
+
+## Workshops
+
+### [ASP.NET Core For Beginners](https://github.com/dotnet-presentations/aspnetcore-for-beginners)
+
+### [ASP.NET Core App Workshop](https://github.com/dotnet-presentations/aspnetcore-app-workshop)
+
+### [.NET Core Workshop](https://github.com/dotnet-presentations/dotnetcore-workshop)
+
+### [ASP.NET Core Authentication Workshop](https://github.com/blowdart/AspNetAuthenticationWorkshop)
+
+### [ASP.NET Core Overview Workshop](https://github.com/dotnet-presentations/aspnetcore-workshop)
 
 # Creative & Social Copy 
 The `Creative` folder contains creative banners and images you can use to advertise .NET Conf and your local events. There are a variety of sizes to choose from. You may use any of these banners to advertize the main event itself, or your local events in your community. You may add your local meetup name, location and dates to these images. You may not change the .NET Conf branding. Please contact [dotnetconf@dotnetfoundation.org](mailto:dotnetconf@dotnetfoundation.org) if you have any questions.  
