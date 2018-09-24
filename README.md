@@ -3,10 +3,10 @@
 ### September 12 - 14, 2018 [www.dotnetconf.net](https://www.dotnetconf.net)
 .NET Conf is a free, 3 day virtual developer event co-organized by the .NET community and Microsoft. This repo contains creative and technical content for running a .NET Conf 2018 local event or watch party in your community as well as information on how to syndicate the broadcast on your own sites. 
 
-If you are intested in running a local event or watch party between Sept 12 and Oct 31, please make sure you let us know by filling out this survey: [www.surveymonkey.com/r/dotnetconf2018](https://www.surveymonkey.com/r/dotnetconf2018). We will advertize your event on [www.dotnetconf.net/local-events](https://www.dotnetconf.net/local-events) and send some SWAG to give out to your members! **Please fill out the survey by Aug 13**. SWAG will be given out on a first-come-first-served basis and supply is limited. 
+If you are intested in running a local event or watch party between Sept 12 and Oct 31, please make sure you let us know by filling out this survey: [www.surveymonkey.com/r/dotnetconf2018](https://www.surveymonkey.com/r/dotnetconf2018). We will advertize your event on [www.dotnetconf.net/local-events](https://www.dotnetconf.net/local-events).
 
 # Event Guidelines
-You are free to organize a watch party to view the online broadcast live and/or organize a presentation, workshop, or hack-a-thon anytime until Oct 31. The technical content needs to be .NET related and preferably on the latest releases. Topcs can include but aren't limited to: .NET Core, ASP.NET Core, Xamarin, Unity, UWP, Visual Studio family, C#/F#/Visual Basic, .NET cloud development with Azure, Machine Learning & AI with .NET, .NET open source projects.  
+You are free to organize a watch party to view the online broadcast live and/or organize a presentation, workshop, or hack-a-thon anytime until Oct 31. The technical content needs to be .NET related and preferably on the latest releases. Topics can include but aren't limited to: .NET Core, ASP.NET Core, Xamarin, Unity, UWP, Visual Studio family, C#/F#/Visual Basic, .NET cloud development with Azure, Machine Learning & AI with .NET, .NET open source projects.  
 
 # Technical Content
 Session decks can be found in the `Technical\Decks` folder. Also check out more .NET presentations and workshops here: [https://github.com/dotnet-presentations/home](https://github.com/dotnet-presentations/home)
